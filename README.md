@@ -1,1 +1,10 @@
-Task 0.Where am I ?
+Ox00-shell_ basics
+Ox01-shell_permissions
+0x02-shell_redirections
+Ox03-shell_variables_expansi..
+0x04-loops_conditions_and_p...
+0x05-processes_and_signals
+0x06-regular_expressions
+0x07-networking_basics
+Ox08-networking_basics_2
+command_line_for_the_win
